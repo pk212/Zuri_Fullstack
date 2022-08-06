@@ -195,7 +195,7 @@ a{
         grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
     }
 
-    #showcase .content-wrap a{
+    #showcase .content-wrap .btn{
         margin: 0 1em;
     }
 
